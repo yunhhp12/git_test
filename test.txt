@@ -1,0 +1,12 @@
+깃허브 사용하기
+업로드 성공함!!
+
+로컬 pc git 사용하기
+1. 한 번만 세팅 (git config, 아이디, 메일)
+2. 레포지토리 (init, add, push, commit, remote origin, push)
+3. 레포지토리 생성후 - 파일 추가, 수정, 삭제 (add, commit, push)
+
+Command line 명령어
+cd - change directory
+dir - 목록 보기 (Mac은 ls)
+cd c:/ - 루트 계정 (c드라이브)
